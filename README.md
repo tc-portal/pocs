@@ -1,4 +1,3 @@
 # ...here should be an interesting description of the project...
 
-8-bit Atmel Microcontroller with 8/16KBytes In-System Programmable Flash.
-High performance, low power Atmel®AVR® 8-bit Microcontroller
+The ATmega808/809/1608/1609 microcontrollers are part of the megaAVR® 0-series, which uses the AVR®processor with hardware multiplier running at up to 20 MHz, and offers a wide range of Flash sizes up to 48 KB,up to 6 KB of SRAM, and 256 bytes of EEPROM in 28-, 32-, 40-, or 48-pin packages. The series uses the latesttechnologies from Microchip with a flexible and low-power architecture, including Event System and SleepWalking,accurate analog features, and advanced peripherals.The devices described in this data sheet offer 8 or 16 KB in a 28/32/48-pin package.
