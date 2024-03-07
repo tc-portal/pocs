@@ -1,3 +1,10 @@
 # ...here should be an interesting description of the project...
 
-The ATmega808/809/1608/1609 microcontrollers are part of the megaAVR® 0-series, which uses the AVR®processor with hardware multiplier running at up to 20 MHz, and offers a wide range of Flash sizes up to 48 KB,up to 6 KB of SRAM, and 256 bytes of EEPROM in 28-, 32-, 40-, or 48-pin packages. The series uses the latesttechnologies from Microchip with a flexible and low-power architecture, including Event System and SleepWalking,accurate analog features, and advanced peripherals.The devices described in this data sheet offer 8 or 16 KB in a 28/32/48-pin package.
+# High-Performance RISC CPU:
+• Only 33 Single-Word Instructions to Learn
+• All Single-Cycle Instructions except for ProgramBranches, which are Two-Cycle
+• 12-Bit Wide Instructions
+• 2-Level Deep Hardware Stack
+• Direct, Indirect and Relative Addressing modesfor Data and Instructions
+• 8-Bit Wide Data Path
+• Eight Special Function Hardware Registers• Operating Speed:- 4 MHz internal clock- 1 μs instruction cycle.
